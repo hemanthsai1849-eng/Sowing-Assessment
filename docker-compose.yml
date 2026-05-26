@@ -1,0 +1,61 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: ap-crop-monitoring-db
+    environment:
+      POSTGRES_DB: crop_monitoring_db
+      POSTGRES_USER: ap_agri_admin
+      POSTGRES_PASSWORD: AgriSecurePassword2026
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ap_agri_admin -d crop_monitoring_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - ap_network
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ap-crop-monitoring-app
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/crop_monitoring_db
+      SPRING_DATASOURCE_USERNAME: ap_agri_admin
+      SPRING_DATASOURCE_PASSWORD: AgriSecurePassword2026
+      SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.spatial.dialect.postgis.PostgisDialect
+      JWT_SECRET: 9a6Zp0Wv2BxYc4DeFgHiJkLmNoPqRsTuVwXyZ1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p
+      JWT_EXPIRATION: 86400000 # 24 hours
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - ap_network
+
+  pgadmin:
+    image: dpage/pgadmin4:8.4
+    container_name: ap-crop-monitoring-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@ap.gov.in
+      PGADMIN_DEFAULT_PASSWORD: PgAdminPassword2026
+    ports:
+      - "5050:80"
+    depends_on:
+      - db
+    networks:
+      - ap_network
+
+volumes:
+  postgres_data:
+
+networks:
+  ap_network:
+    driver: bridge

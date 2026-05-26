@@ -1,0 +1,7 @@
+{
+  "villageId": 1,
+  "surveyNumber": "145/B",
+  "farmerName": "K. Venkata Rao",
+  "areaHa": 2.4500,
+  "geojsonGeometry": "{\"type\":\"Polygon\",\"coordinates\":[[[80.6210,16.5410],[80.6250,16.5410],[80.6250,16.5450],[80.6210,16.5450],[80.6210,16.5410]]]}"
+}

@@ -1,0 +1,6 @@
+{
+  "sensorName": "SENTINEL-2",
+  "cloudCover": 1.85,
+  "acquisitionDate": "2026-05-25T10:30:00",
+  "geojsonFootprint": "{\"type\":\"Polygon\",\"coordinates\":[[[80.6000,16.5000],[80.7000,16.5000],[80.7000,16.6000],[80.6000,16.6000],[80.6000,16.5000]]]}"
+}
