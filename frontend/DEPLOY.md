@@ -122,6 +122,133 @@ networks:
 
 ## Cloud Deployment
 
+### Netlify Deployment (Recommended for SPA)
+
+#### Prerequisites
+- Netlify account: https://app.netlify.com
+- GitHub repository connected
+- `netlify-cli` installed: `npm install -g netlify-cli`
+
+#### Method 1: GitHub Integration (Recommended)
+
+1. **Push to GitHub**
+   ```bash
+   git add .
+   git commit -m "Netlify deployment configuration"
+   git push origin main
+   ```
+
+2. **Connect to Netlify**
+   - Go to https://app.netlify.com
+   - Click "New site from Git"
+   - Select GitHub and your repository
+   - Build command: `npm run build`
+   - Publish directory: `dist`
+   - Click "Deploy"
+
+3. **Set Environment Variables** (if needed)
+   - In Netlify settings → Environment
+   - Add `VITE_API_URL=https://your-backend.com/api`
+
+4. **Deploy automatically on push**
+   - Netlify will automatically deploy whenever you push to main branch
+
+#### Method 2: Netlify CLI (Local Deployment)
+
+1. **Authenticate**
+   ```bash
+   netlify login
+   ```
+
+2. **Deploy**
+   ```bash
+   cd frontend
+   npm run build
+   netlify deploy --prod
+   ```
+
+#### Method 3: Manual Build & Deploy
+
+1. **Build locally**
+   ```bash
+   cd frontend
+   npm install
+   npm run build
+   ```
+
+2. **Deploy to Netlify**
+   ```bash
+   netlify deploy --prod --dir=dist
+   ```
+
+#### ✅ Fixing "Page not found" Error
+
+If you encounter "Looks like you've followed a broken link..." errors:
+
+**The issue:** Netlify isn't serving `index.html` for client-side routes.
+
+**The solution is already configured:**
+- `netlify.toml` has SPA redirect rules (all requests → `/index.html`)
+- `public/_redirects` provides a fallback configuration
+- Cache headers are optimized for SPA delivery
+
+**Troubleshooting steps:**
+
+1. **Clear cache and redeploy**
+   ```bash
+   # Go to Netlify site settings
+   # Under "Deploys" → Click "Trigger deploy" → "Deploy site"
+   # Or use CLI:
+   netlify deploy --prod --clear-cache
+   ```
+
+2. **Verify build output**
+   ```bash
+   npm run build
+   ls -la dist/  # Should contain index.html and asset files
+   ```
+
+3. **Check Netlify configuration**
+   ```bash
+   # Review netlify.toml redirects
+   cat netlify.toml
+   ```
+
+4. **Environment variables**
+   - Ensure `VITE_API_URL` is correctly set for your deployment
+   - Frontend should be running at `https://your-site.netlify.app`
+
+5. **Full redeploy**
+   ```bash
+   # Complete rebuild
+   cd frontend
+   rm -rf node_modules dist package-lock.json
+   npm install
+   npm run build
+   netlify deploy --prod
+   ```
+
+#### Production Settings
+
+In **Netlify Settings** → **Build & Deploy**:
+
+```
+Build command:          npm run build
+Publish directory:      dist
+Node version:          18 (or higher)
+```
+
+#### Environment Variables for Production
+
+In **Netlify Settings** → **Environment**:
+
+```
+VITE_API_URL          https://api.yourdomain.com/api
+VITE_ENV              production
+```
+
+---
+
 ### Vercel Deployment
 
 1. **Install Vercel CLI**
