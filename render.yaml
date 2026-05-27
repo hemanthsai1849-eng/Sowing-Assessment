@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: crop-sowing-backend
+    env: java
+    buildCommand: "./mvnw clean package -DskipTests"
+    startCommand: "java -jar target/crop-sowing-intelligence-1.0.0.jar"
+    region: singapore
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: prod
+      - key: SPRING_DATASOURCE_URL
+        fromDatabase:
+          name: crop-sowing-db
+          property: connectionString
+      - key: SPRING_DATASOURCE_USERNAME
+        fromDatabase:
+          name: crop-sowing-db
+          property: user
+      - key: SPRING_DATASOURCE_PASSWORD
+        fromDatabase:
+          name: crop-sowing-db
+          property: password
+      - key: JWT_SECRET
+        value: change-this-to-random-secret-key
+
+  - type: postgres
+    name: crop-sowing-db
+    region: singapore
+    plan: free
+    postgresVersion: 15

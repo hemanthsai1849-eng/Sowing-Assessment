@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { Parcel, NDVIRecord, EPantaRecord, Alert, Analytics, RiverBasin } from '@/types';
 
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8080/api';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8080/api';
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,

@@ -3,6 +3,7 @@ F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\mod
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\shared\utils\GisSpatialUtils.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\auth\services\AuthService.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\soil\entities\SoilData.java
+F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\monitoring\controllers\NDVIController.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\epanta\services\EPantaAuditService.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\epanta\entities\EPantaRecord.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\parcel\repositories\ParcelRepository.java
@@ -24,11 +25,14 @@ F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\mod
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\auth\dtos\AuthResponse.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\monitoring\entities\SatelliteObservation.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\shared\utils\DatabaseSeeder.java
+F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\monitoring\dtos\NDVIDataPoint.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\config\security\JwtTokenProvider.java
+F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\monitoring\dtos\NDVITimeSeriesResponse.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\alerts\entities\Alert.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\analytics\services\AnalyticsService.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\monitoring\repositories\NDVIRecordRepository.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\auth\repositories\UserRepository.java
+F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\monitoring\services\NDVIService.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\parcel\mappers\ParcelMapper.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\parcel\entities\District.java
 F:\Automated Crop Sowing Assessment\src\main\java\com\ap\agri\cropmonitoring\modules\monitoring\entities\CropSeason.java

@@ -333,3 +333,473 @@ Caused by: java.io.IOException: An established connection was aborted by the sof
 2026-05-27 14:19:08.921 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
 2026-05-27 14:19:08.925 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
 2026-05-27 14:19:08.925 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:20:08.938 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:20:08.942 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:20:08.943 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:20:08.943 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:20:08.943 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:21:08.966 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:21:08.966 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:21:08.975 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:21:08.975 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:21:08.975 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:22:08.980 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:22:08.982 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:22:08.988 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:22:08.988 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:22:08.988 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:23:08.994 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:23:09.031 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:23:09.044 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:23:09.046 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:23:09.046 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:24:09.060 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:24:09.060 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:24:09.101 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:24:09.101 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:24:09.101 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:25:09.109 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:25:09.109 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:25:09.127 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:25:09.127 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:25:09.127 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:26:09.130 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:26:09.167 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:26:09.168 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:26:09.168 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:26:09.168 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:27:09.186 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:27:09.188 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:27:09.225 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:27:09.225 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:27:09.225 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:28:09.235 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:28:09.270 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:28:09.276 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:28:09.276 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:28:09.276 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:29:09.280 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:29:09.286 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:29:09.295 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:29:09.296 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:29:09.297 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:30:09.305 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:30:09.309 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:30:09.319 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:30:09.319 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:30:09.319 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:31:09.360 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:31:09.365 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:31:09.371 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:31:09.373 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:31:09.373 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:32:09.379 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:32:09.380 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:32:09.384 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:32:09.384 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:32:09.384 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:33:09.396 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:33:09.399 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:33:09.406 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:33:09.406 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:33:09.406 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:34:09.422 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:34:09.424 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:34:09.501 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:34:09.505 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:34:09.505 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:35:09.520 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:35:09.522 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:35:09.528 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:35:09.532 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:35:09.534 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:36:09.553 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:36:09.553 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:36:09.561 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:36:09.561 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:36:09.561 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:37:09.571 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:37:09.571 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:37:09.578 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:37:09.578 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:37:09.578 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:38:09.587 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:38:09.591 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:38:09.605 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:38:09.605 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:38:09.605 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:39:09.621 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:39:09.621 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:39:09.630 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:39:09.630 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:39:09.630 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:40:09.641 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:40:09.642 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:40:09.653 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:40:09.654 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:40:09.654 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:41:09.660 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:41:09.660 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:41:09.676 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:41:09.677 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:41:09.677 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:42:09.679 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:42:09.680 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:42:09.763 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:42:09.763 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:42:09.763 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:43:09.788 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:43:09.799 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:43:09.803 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:43:09.803 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:43:09.804 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:44:09.817 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:44:09.818 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:44:09.821 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:44:09.821 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:44:09.822 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:45:09.823 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:45:09.825 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:45:09.828 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:45:09.828 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:45:09.828 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:46:09.835 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:46:09.840 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:46:09.842 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:46:09.842 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:46:09.842 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:57:04.759 [main] INFO  c.a.a.c.CropMonitoringApplication - Starting CropMonitoringApplication using Java 17.0.12 with PID 23964 (F:\Automated Crop Sowing Assessment\target\classes started by tsekh in F:\Automated Crop Sowing Assessment)
+2026-05-27 14:57:04.759 [main] DEBUG c.a.a.c.CropMonitoringApplication - Running with Spring Boot v3.3.0, Spring v6.1.8
+2026-05-27 14:57:04.759 [main] INFO  c.a.a.c.CropMonitoringApplication - The following 1 profile is active: "dev"
+2026-05-27 14:57:06.203 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-27 14:57:06.356 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 139 ms. Found 13 JPA repository interfaces.
+2026-05-27 14:57:07.541 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-05-27 14:57:07.561 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-05-27 14:57:07.561 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2026-05-27 14:57:07.641 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-05-27 14:57:07.656 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2815 ms
+2026-05-27 14:57:07.737 [main] DEBUG c.a.a.c.c.s.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-27 14:57:07.907 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-27 14:57:07.991 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2026-05-27 14:57:08.012 [main] INFO  o.h.s.integration.SpatialService - HHH80000001: hibernate-spatial integration enabled : true
+2026-05-27 14:57:08.041 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-05-27 14:57:08.190 [main] INFO  com.zaxxer.hikari.HikariDataSource - ApAgriHikariCP - Starting...
+2026-05-27 14:57:08.524 [main] INFO  com.zaxxer.hikari.pool.HikariPool - ApAgriHikariCP - Added connection org.postgresql.jdbc.PgConnection@eded048
+2026-05-27 14:57:08.531 [main] INFO  com.zaxxer.hikari.HikariDataSource - ApAgriHikariCP - Start completed.
+2026-05-27 14:57:08.624 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: PostgisPG10Dialect has been deprecated; use org.hibernate.dialect.PostgreSQLDialect instead
+2026-05-27 14:57:08.657 [main] INFO  org.hibernate.spatial - HHH80000003: hibernate-spatial adding type contributions from : org.hibernate.spatial.dialect.postgis.PostgisDialectContributor
+2026-05-27 14:57:09.026 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-27 14:57:09.076 [main] INFO  org.hibernate.spatial - HHH80000003: hibernate-spatial adding type contributions from : org.hibernate.spatial.dialect.postgis.PostgisDialectContributor
+2026-05-27 14:57:09.998 [main] INFO  org.hibernate.spatial - HHH80000004: hibernate-spatial adding function contributions from : org.hibernate.spatial.dialect.postgis.PostgisDialectContributor
+2026-05-27 14:57:11.422 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-27 14:57:11.808 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-27 14:57:12.276 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-05-27 14:57:13.492 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name authService
+2026-05-27 14:57:13.871 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@70cc0601, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4b27a3fc, org.springframework.security.web.context.SecurityContextHolderFilter@222e4377, org.springframework.security.web.header.HeaderWriterFilter@6a4f3df4, org.springframework.security.web.authentication.logout.LogoutFilter@13b0755e, com.ap.agri.cropmonitoring.config.security.JwtAuthenticationFilter@553d2579, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@22eccd2c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1c461b90, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@22b0fe7e, org.springframework.security.web.session.SessionManagementFilter@19710bd9, org.springframework.security.web.access.ExceptionTranslationFilter@5f8a0d7f, org.springframework.security.web.access.intercept.AuthorizationFilter@7fc8930f]
+2026-05-27 14:57:14.371 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-05-27 14:57:14.392 [main] INFO  c.a.a.c.CropMonitoringApplication - Started CropMonitoringApplication in 10.191 seconds (process running for 10.78)
+2026-05-27 14:57:14.471 [main] INFO  c.a.a.c.shared.utils.DatabaseSeeder - Database Seeder: Administrative boundaries already seeded. Skipping seeder.
+2026-05-27 14:57:14.471 [main] INFO  c.a.a.c.shared.utils.UserSeeder - User Seeder: Users already exist. Skipping user seeding.
+2026-05-27 14:57:29.396 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:57:29.396 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:57:29.417 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:57:29.417 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:57:29.417 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:58:29.434 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:58:29.442 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:58:29.482 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:58:29.482 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:58:29.482 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:59:29.484 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 14:59:29.484 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 14:59:29.484 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 14:59:29.484 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 14:59:29.484 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:00:29.499 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:00:29.503 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:00:29.507 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:00:29.507 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:00:29.507 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:01:29.518 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:01:29.519 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:01:29.525 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:01:29.525 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:01:29.526 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:01:53.425 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-27 15:01:53.425 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-05-27 15:01:53.527 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 102 ms
+2026-05-27 15:01:55.428 [http-nio-8080-exec-1] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 1055 ms
+2026-05-27 15:02:29.538 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:02:29.539 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:02:29.539 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:02:29.539 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:02:29.539 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:02:35.986 [http-nio-8080-exec-8] DEBUG c.a.a.c.m.auth.services.AuthService - Attempting authentication for user: string
+2026-05-27 15:02:36.285 [http-nio-8080-exec-8] WARN  c.a.a.c.s.e.GlobalExceptionHandler - Authentication failed: Bad credentials
+2026-05-27 15:02:56.501 [http-nio-8080-exec-3] DEBUG c.a.a.c.m.auth.services.AuthService - Attempting authentication for user: ap_officer
+2026-05-27 15:02:56.633 [http-nio-8080-exec-3] WARN  c.a.a.c.s.e.GlobalExceptionHandler - Authentication failed: Bad credentials
+2026-05-27 15:03:29.551 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:03:29.551 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:03:29.554 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:03:29.554 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:03:29.554 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:04:29.559 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:04:29.559 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:04:29.562 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:04:29.562 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:04:29.562 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:05:29.572 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:05:29.572 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:05:29.572 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:05:29.572 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:05:29.572 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:06:29.580 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:06:29.581 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:06:29.583 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:06:29.583 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:06:29.583 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:07:29.596 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:07:29.598 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:07:29.599 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:07:29.599 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:07:29.599 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:08:29.603 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:08:29.604 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:08:29.638 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:08:29.638 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:08:29.638 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:09:29.649 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:09:29.650 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:09:29.660 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:09:29.660 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:09:29.660 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:10:29.668 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:10:29.669 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:10:29.693 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:10:29.693 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:10:29.694 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:11:29.705 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:11:29.709 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:11:29.729 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:11:29.729 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:11:29.729 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:12:29.749 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:12:29.749 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:12:29.763 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:12:29.763 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:12:29.764 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:13:29.765 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:13:29.765 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:13:29.765 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:13:29.765 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:13:29.765 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:14:29.776 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:14:29.777 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:14:29.777 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:14:29.777 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:14:29.777 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:15:29.795 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:15:29.804 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:15:29.810 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:15:29.811 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:15:29.811 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:16:29.822 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:16:29.823 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:16:29.826 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:16:29.826 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:16:29.826 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:17:29.832 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:17:29.834 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:17:29.866 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:17:29.866 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:17:29.866 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:18:29.865 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:18:29.865 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:18:29.882 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:18:29.882 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:18:29.882 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:19:29.870 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:19:29.881 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:19:29.881 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:19:29.881 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:19:29.881 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:20:29.885 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:20:29.895 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:20:29.895 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:20:29.895 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:20:29.900 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:21:29.885 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:21:29.887 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:21:29.891 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:21:29.891 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:21:29.891 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:22:29.888 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:22:29.889 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:22:29.889 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:22:29.889 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:22:29.889 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:23:29.885 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:23:29.895 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:23:29.898 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:23:29.899 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:23:29.899 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:24:29.894 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:24:29.894 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:24:29.894 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:24:29.894 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:24:29.894 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:25:29.892 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:25:29.902 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:25:29.906 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:25:29.906 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:25:29.906 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:26:29.897 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:26:29.897 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:26:29.897 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:26:29.897 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:26:29.897 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:27:29.888 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:27:29.889 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:27:29.902 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:27:29.902 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:27:29.903 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:28:29.901 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:28:29.902 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:28:29.907 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:28:29.907 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:28:29.908 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:29:29.896 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:29:29.899 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:29:29.903 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:29:29.903 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:29:29.903 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:30:29.909 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:30:29.909 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:30:29.909 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:30:29.909 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:30:29.909 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:31:29.906 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:31:29.906 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:31:29.906 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:31:29.906 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:31:29.906 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:32:29.909 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:32:29.917 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:32:29.926 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:32:29.928 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:32:29.930 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:33:29.929 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:33:29.929 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:33:29.955 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:33:29.955 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:33:29.955 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:34:29.945 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:34:29.945 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:34:29.945 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:34:29.945 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:34:29.945 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:35:29.948 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:35:29.948 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:35:29.948 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:35:29.948 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:35:29.948 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:36:29.950 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:36:29.950 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:36:30.031 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:36:30.031 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:36:30.031 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:37:30.030 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:37:30.032 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:37:30.099 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:37:30.099 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:37:30.099 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:38:30.096 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:38:30.096 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:38:30.100 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:38:30.102 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:38:30.102 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:39:30.131 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:39:30.172 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:39:30.789 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:39:30.789 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:39:30.789 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:40:30.801 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:40:30.811 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:40:30.905 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:40:30.905 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:40:30.905 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:41:30.899 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:41:30.929 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:41:30.944 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:41:30.944 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:41:30.946 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:42:30.939 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:42:30.973 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:42:30.986 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:42:30.988 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:42:30.988 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:43:30.991 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:43:30.991 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:43:30.998 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:43:31.000 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:43:31.000 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:44:30.992 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:44:30.992 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:44:30.999 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:44:30.999 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:44:30.999 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:45:30.998 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:45:30.998 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:45:31.005 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:45:31.005 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:45:31.005 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:46:31.001 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:46:31.002 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:46:31.006 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:46:31.006 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:46:31.006 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:47:30.999 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:47:31.036 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:47:31.040 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:47:31.040 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:47:31.040 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:48:31.034 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:48:31.034 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:48:31.041 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:48:31.041 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:48:31.041 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:49:31.031 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:49:31.031 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:49:31.039 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:49:31.039 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:49:31.039 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:50:31.032 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:50:31.032 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:50:31.040 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:50:31.040 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:50:31.040 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:51:31.042 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:51:31.042 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:51:31.050 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:51:31.050 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:51:31.050 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:52:31.054 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:52:31.054 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:52:31.062 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:52:31.062 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:52:31.062 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:53:31.086 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:53:31.106 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:53:31.200 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:53:31.200 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:53:31.200 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:54:31.198 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:54:31.198 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:54:31.207 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:54:31.207 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:54:31.207 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:55:31.218 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------
+2026-05-27 15:55:31.219 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Starting scheduled batch crop classification & e-Panta audit...
+2026-05-27 15:55:31.229 [scheduling-1] WARN  c.a.a.c.m.c.s.BatchClassificationScheduler - Scheduler Job: No parcels exist in database. Skipping spatial classification.
+2026-05-27 15:55:31.229 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - [SIMULATION ENGINE] Scheduled batch execution completed.
+2026-05-27 15:55:31.229 [scheduling-1] INFO  c.a.a.c.m.c.s.BatchClassificationScheduler - --------------------------------------------------------------------------------

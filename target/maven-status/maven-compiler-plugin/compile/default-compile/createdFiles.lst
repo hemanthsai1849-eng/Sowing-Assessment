@@ -32,6 +32,7 @@ com\ap\agri\cropmonitoring\modules\epanta\entities\EPantaRecord.class
 com\ap\agri\cropmonitoring\shared\exception\ResourceNotFoundException.class
 com\ap\agri\cropmonitoring\modules\epanta\repositories\EPantaRecordRepository.class
 com\ap\agri\cropmonitoring\modules\epanta\entities\EPantaRecord$EPantaRecordBuilder.class
+com\ap\agri\cropmonitoring\modules\monitoring\controllers\NDVIController.class
 com\ap\agri\cropmonitoring\config\security\JwtAuthenticationFilter.class
 com\ap\agri\cropmonitoring\config\security\SecurityConfig.class
 com\ap\agri\cropmonitoring\shared\utils\GisSpatialUtils.class
@@ -39,9 +40,12 @@ com\ap\agri\cropmonitoring\modules\auth\entities\Role.class
 com\ap\agri\cropmonitoring\modules\parcel\repositories\DistrictRepository.class
 com\ap\agri\cropmonitoring\modules\parcel\entities\Mandal.class
 com\ap\agri\cropmonitoring\modules\weather\repositories\WeatherDataRepository.class
+com\ap\agri\cropmonitoring\modules\monitoring\dtos\NDVIDataPoint.class
+com\ap\agri\cropmonitoring\modules\monitoring\dtos\NDVITimeSeriesResponse$NDVITimeSeriesResponseBuilder.class
 com\ap\agri\cropmonitoring\modules\analytics\services\AnalyticsService.class
 com\ap\agri\cropmonitoring\modules\parcel\controllers\ParcelController.class
 com\ap\agri\cropmonitoring\modules\soil\entities\SoilData$SoilDataBuilder.class
+com\ap\agri\cropmonitoring\modules\monitoring\services\NDVIService.class
 com\ap\agri\cropmonitoring\modules\parcel\mappers\ParcelMapper.class
 com\ap\agri\cropmonitoring\modules\classification\services\CropClassificationService.class
 com\ap\agri\cropmonitoring\modules\parcel\repositories\MandalRepository.class
@@ -51,9 +55,11 @@ com\ap\agri\cropmonitoring\shared\exception\GlobalExceptionHandler.class
 com\ap\agri\cropmonitoring\modules\monitoring\repositories\SatelliteObservationRepository.class
 com\ap\agri\cropmonitoring\modules\monitoring\mappers\SatelliteObservationMapperImpl.class
 com\ap\agri\cropmonitoring\modules\parcel\entities\District.class
+com\ap\agri\cropmonitoring\modules\monitoring\dtos\NDVITimeSeriesResponse.class
 com\ap\agri\cropmonitoring\modules\parcel\dtos\ParcelDto$ParcelDtoBuilder.class
 com\ap\agri\cropmonitoring\modules\alerts\entities\Alert.class
 com\ap\agri\cropmonitoring\modules\weather\entities\WeatherData$WeatherDataBuilder.class
+com\ap\agri\cropmonitoring\modules\monitoring\dtos\NDVIDataPoint$NDVIDataPointBuilder.class
 com\ap\agri\cropmonitoring\modules\monitoring\dtos\SatelliteObservationDto$SatelliteObservationDtoBuilder.class
 com\ap\agri\cropmonitoring\modules\monitoring\entities\CropSeason$CropSeasonBuilder.class
 com\ap\agri\cropmonitoring\modules\parcel\services\ParcelService.class
