@@ -1,0 +1,72 @@
+version: '3.8'
+
+services:
+  # Frontend - React GIS Dashboard
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: sowing-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - VITE_API_URL=http://backend:8080/api
+    depends_on:
+      - backend
+    networks:
+      - sowing-network
+
+  # Backend - Spring Boot API
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sowing-backend
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://postgres:5432/crop_sowing_db
+      - SPRING_DATASOURCE_USERNAME=postgres
+      - SPRING_DATASOURCE_PASSWORD=postgres
+    depends_on:
+      - postgres
+    networks:
+      - sowing-network
+
+  # PostgreSQL Database with PostGIS
+  postgres:
+    image: postgis/postgis:15-3.3
+    container_name: sowing-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=crop_sowing_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./scratch/init_db.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - sowing-network
+
+  # pgAdmin - Database Management
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: sowing-pgadmin
+    ports:
+      - "5050:80"
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@ap.gov.in
+      - PGADMIN_DEFAULT_PASSWORD=admin123
+    depends_on:
+      - postgres
+    networks:
+      - sowing-network
+
+volumes:
+  postgres_data:
+
+networks:
+  sowing-network:
+    driver: bridge
